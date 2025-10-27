@@ -1,0 +1,9 @@
+open file with git bash
+git init  (initializing the git)
+git status
+git add filename (for one file)
+git add .(to add all files)
+git commit -m "message"(to commit)
+git remote add origin "url"
+git push origin branchname(branch name can be master or main)
+git log
